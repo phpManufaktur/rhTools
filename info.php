@@ -33,7 +33,7 @@ if (defined('WB_PATH')) {
 $module_directory     = 'rhtools';
 $module_name          = 'rhTools';
 $module_function      = 'snippet';
-$module_version       = '0.51';
+$module_version       = '0.52';
 $module_status        = 'stable';
 $module_platform      = '2.8';
 $module_author        = 'Ralf Hertsch, Berlin (Germany)';

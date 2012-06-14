@@ -1,5 +1,9 @@
 ### rhTools
 
+0.52 - 2012-06-14
+
+* removed WebsiteBaker version check
+
 0.51 - 2012-05-23
 
 * moved repository to GitHub
